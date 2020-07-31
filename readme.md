@@ -1,4 +1,5 @@
 It is a nosql type database
+It uses UDP for transfering data between the  server and clint 
 It can be used to store the variables and later share it with two different programs running parallelly
 First run the server with giving an input constraint as port number which must be greater than 1024
 Then add the clint.h header file
